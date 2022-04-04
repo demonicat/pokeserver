@@ -1,4 +1,4 @@
-# Pokeserver
+# PokeServer
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/demonicat/pokeserver)
 [![GitHub](https://img.shields.io/github/license/demonicat/pokeserver)](https://github.com/demonicat/pokeserver/blob/main/LICENSE)
